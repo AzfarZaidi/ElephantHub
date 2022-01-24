@@ -83,7 +83,7 @@ p {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-	color: #000;
+	color: #fff;
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
@@ -378,11 +378,11 @@ p {
 }
 
 .background-1 {
-	background-image: url("../img/photo-6.jpg");
+	background-image: url("../img/image.png");
 }
 
 .background-2 {
-	background-image: url("../img/photo-4.jpg");
+	background-image: url("../img/image.png");
 }
 
 .split-image-right {
