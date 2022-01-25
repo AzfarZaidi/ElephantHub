@@ -20,6 +20,10 @@ body {
 	background-color: #e9e8e6;
 }
 
+header {
+	transition: top 0.2s ease-in-out;
+  }
+  
 .btn {
 	border-radius: 0;
 }
@@ -453,6 +457,14 @@ p {
 	font-size: 1.2em;
 	padding-top: 10rem;
 	padding-bottom: 10rem;
+}
+
+.resized {
+	display: block;
+    max-width:500px;
+	max-height:350px;
+    height:auto;
+	width:auto;
 }
 
 
